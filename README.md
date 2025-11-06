@@ -21,7 +21,7 @@ My goal is to combine technical expertise with strategic thinking to help organi
 
 | Project | Description | Skills |
 |----------|--------------|--------|
-| Security Audit | GRC, NIST, Policy Writing |
+| Security Audit - | [Security Audit – Bottium Toys](https://github.com/alsrouryazan/Cybersecurity-Portfolio/tree/main/01-Security-Audit-Bottium-Toys) | Conducted a full risk and compliance assessment for Bottium Toys using NIST CSF. | GRC, NIST, Policy Writing || GRC, NIST, Policy Writing |
 | Phishing Email Analysis | Investigated a simulated phishing campaign and extracted indicators of compromise. | Email Header Analysis, Threat Hunting |
 | Log Analysis with Python | Developed a Python notebook to parse and detect anomalies in server logs. | Python, SIEM, Data Analysis |
 | Incident Response Report | Documented a complete IR process including triage, containment, and remediation. | IR, Forensics, Reporting |
